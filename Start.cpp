@@ -1,9 +1,8 @@
 #include <iostream>
-#include <cstdlib> 
 using namespace std;
 
 int main() 
 { 
-    cout << "hyu" << endl;
+    cout << "GITCULTURE IS TRUEEEEE" << endl;
     return 0; 
 }

@@ -1,3 +1,6 @@
 [submodule "GITCULTURE"]
 	path = GITCULTURE
 	url = https://github.com/m9xxx/GITCULTURE
+[submodule "git_course"]
+	path = git_course
+	url = https://github.com/Guslik5/git_course
